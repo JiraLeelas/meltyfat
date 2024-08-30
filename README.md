@@ -6,5 +6,11 @@ This project aims to demonstrate a proof of concept data acquisition ecosystem f
 
 This github repositatry is the first part of the purposed ecosystem that is used to extracted data from the thermal infrared camera for this in this proof-of-concept system. This module provide users with the option to detect each individual well within the well plate using either Hough Circle Transform or a custom trained YOLOv8 object detection model.
 
+## Development Tools
+- Programming Language: Python
+- Coding Paradigm: Object-oriented programming (OOP)
+- Libraries: PyTorch, Pandas, NumPy, Ultralytics (YOLOv8), OpenCV, Matplotlib
+
+
 
 
